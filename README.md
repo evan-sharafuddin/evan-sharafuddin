@@ -1,4 +1,8 @@
-## Hi there 👋
+# Evan Sharafuddin
+
+EE student at WashU, seeking internships and gradaute education! Passionate about embedded systems and low-level programming
+
+Currently working on `type-test` (C, C++, CMake), a typing test game that runs in a Unix terminal formatted in raw mode. 
 
 <!--
 **evan-sharafuddin/evan-sharafuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
